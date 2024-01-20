@@ -1,0 +1,35 @@
+.cal-div{
+    background-color: black;
+    width: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+#display{
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.ClrBtn{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.btn{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    margin: 3px;
+}
